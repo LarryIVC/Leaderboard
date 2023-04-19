@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color:cornflowerblue;
+  background-color: cornflowerblue;
   font-size: 16px;
   display: flex;
   flex-direction: column;
@@ -15,7 +15,7 @@ body {
 }
 
 h2 {
-  font-size: 1.25em;  
+  font-size: 1.25em;
 }
 
 button {
@@ -36,7 +36,7 @@ ul {
 header {
   margin-top: 50px;
   background-color: #fff;
-  padding: 10px;  
+  padding: 10px;
 }
 
 main {
@@ -60,7 +60,7 @@ main {
   justify-content: space-between;
 }
 
-.scores-list {  
+.scores-list {
   border: 1px solid #000;
   padding: 10px;
 }
@@ -69,7 +69,7 @@ main {
   display: flex;
   flex-direction: column;
   gap: 5px;
-  justify-content: space-between;  
+  justify-content: space-between;
 }
 
 .scores-list li {
@@ -85,8 +85,9 @@ main {
 .right {
   display: flex;
   flex-direction: column;
-  gap:15px; 
+  gap: 15px;
   width: 50%;
+
   /* text-align: right; */
   padding: 5px;
 }
@@ -94,7 +95,7 @@ main {
 .frm-add-score {
   display: flex;
   flex-direction: column;
-  gap:10px;
+  gap: 10px;
   text-align: left;
 }
 
@@ -107,4 +108,3 @@ main {
   justify-content: right;
   text-align: right;
 }
-
