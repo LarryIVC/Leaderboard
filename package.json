@@ -20,6 +20,7 @@
     "eslint": "^7.32.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.27.5",
+    "gh-pages": "^5.0.0",
     "hint": "^2.0.0",
     "html-webpack-plugin": "^5.5.1",
     "style-loader": "^3.3.2",
@@ -32,7 +33,6 @@
     "webpack-dev-server": "^4.13.3"
   },
   "dependencies": {
-    "gh-pages": "^5.0.0",
     "lodash": "^4.17.21"
   }
 }
