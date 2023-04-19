@@ -7,11 +7,13 @@
   "scripts": {
     "build": "webpack --mode=production",
     "dev": "webpack --mode=development",
+    "deploy": "gh-pages -d dist",
     "start": "webpack serve --open --mode=production"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Larry Villegas <larry_villegas@gmail.com>",
+  "homepage": "https://larryivc.github.io/Leaderboard",
+  "license": "MIT",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.7.3",
@@ -30,6 +32,7 @@
     "webpack-dev-server": "^4.13.3"
   },
   "dependencies": {
+    "gh-pages": "^5.0.0",
     "lodash": "^4.17.21"
   }
 }
