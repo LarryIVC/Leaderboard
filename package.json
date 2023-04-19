@@ -12,7 +12,7 @@
   },
   "keywords": [],
   "author": "Larry Villegas <larry_villegas@gmail.com>",
-  "homepage": "https://larryivc.github.io/Leaderboard",
+  "homepage": "https://larryivc.github.io/Leaderboard/",
   "license": "MIT",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
