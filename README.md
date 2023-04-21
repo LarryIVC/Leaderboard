@@ -63,6 +63,7 @@
 - Implement `Form` for add Scores
 - Use Arrow functions
 - Using `async` and `await` `Javascript` features.
+- Update styles to improve UX.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
