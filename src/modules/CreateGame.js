@@ -1,6 +1,6 @@
 import { API_URL } from './Vars.js';
 
-// Script to create game
+// Script to create the game key, this script is executed only 1 time. use - node CreateGame.js
 const createGame = async () => {
   try {
     const response = await fetch(`${API_URL}games/`, {
