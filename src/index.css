@@ -8,6 +8,7 @@
 body {
   background-image: url(./bg-codm.jpg);
   background-size: cover;
+
   /* background-repeat: no-repeat;   */
   font-size: 16px;
   display: flex;
@@ -35,7 +36,7 @@ button {
 }
 
 button:hover {
-  background-color: #F9EA00;
+  background-color: #f9ea00;
   transform: scale(1.05);
 }
 
@@ -49,7 +50,7 @@ ul {
 
 header {
   margin-top: 50px;
-  background-color: rgba(255, 255, 255,0.8);
+  background-color: rgba(255, 255, 255, 0.8);
   padding: 10px;
   border-top-right-radius: 1.56rem;
   border-top-left-radius: 1.56rem;
@@ -59,7 +60,7 @@ main {
   display: flex;
   flex-direction: row;
   gap: 25px;
-  background-color: rgba(255, 255, 255,0.8);
+  background-color: rgba(255, 255, 255, 0.8);
   border-bottom-left-radius: 1.56rem;
   border-bottom-right-radius: 1.56rem;
   padding: 10px;
@@ -99,7 +100,7 @@ main {
 }
 
 .scores-list li:nth-child(even) {
-  background-color:  rgba(87, 88, 57, 0.9);
+  background-color: rgba(87, 88, 57, 0.9);
   color: #fff;
 }
 
@@ -126,7 +127,7 @@ main {
 }
 
 .frm-add-score input:hover {
-  transform:scale(1.07)
+  transform: scale(1.07);
 }
 
 .btn-cnt {
@@ -135,14 +136,12 @@ main {
 }
 
 @media (max-width: 768px) {
-
   body {
     font-size: 12px;
-    
     background-size: contain;
     background-repeat: repeat;
   }
-  
+
   main {
     flex-direction: column;
   }
@@ -154,6 +153,7 @@ main {
   .right {
     width: auto;
   }
+
   .container-width {
     width: 80%;
   }
