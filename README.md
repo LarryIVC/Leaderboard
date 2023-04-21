@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center" style="text-align: center">
-  <img src = "logo.png">  
+  <img src = "src/logo.png">  
   <h1><b>Leaderboard Scores</b></h1>
 </div>
 
@@ -56,9 +56,13 @@
 **Enlist skill sets and tech stack**
 
 - Add template for Leaderboard
-- Setup Webpack
-- Apply GitFlow
+- Setup `Webpack`
+- Apply `GitFlow`
 - Verified Linters
+- Read and write to an API
+- Implement `Form` for add Scores
+- Use Arrow functions
+- Using `async` and `await` `Javascript` features.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

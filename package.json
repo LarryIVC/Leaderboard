@@ -4,6 +4,7 @@
   "description": "Project that consume api Leaderboard service",
   "main": "./src/index.js",
   "private": true,
+  "type":"module",
   "scripts": {
     "build": "webpack --mode=production",
     "dev": "webpack --mode=development",
