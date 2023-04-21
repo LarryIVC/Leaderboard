@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center" style="text-align: center">
-  <img src = "logo.png">  
+  <img src = "src/logo.png">  
   <h1><b>Leaderboard Scores</b></h1>
 </div>
 
