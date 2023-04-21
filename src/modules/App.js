@@ -35,9 +35,19 @@ const addScores = () => {
   });
 };
 
+// Refresh button
+const refresh = () => {
+  const btnRefresh = document.getElementById('btn-refresh');
+  btnRefresh.addEventListener('click', () => {
+    renderList();
+  });
+};
+
+// Principal function
 const App = () => {
   addScores();
   renderList();
+  refresh();
 };
 
 export default App;
