@@ -1,21 +1,21 @@
-import { API_URL } from "./Vars.js";
+import { API_URL } from './Vars.js';
 
 // Script to create game
 const createGame = async () => {
   try {
-    const response = await fetch(API_URL+ 'games/', {
+    const response = await fetch(`${API_URL}games/`, {
       method: 'POST',
       body: JSON.stringify({
-        name: 'Call of Duty Mobile'
+        name: 'Call of Duty Mobile',
       }),
       headers: {
         'Content-type': 'application/json; charset=UTF-8',
       },
     });
     const json = await response.json();
-    console.log(json);
+    document.getElementById('ul-scores').innerHTML = json;
   } catch (error) {
-    console.error(error);
+    document.getElementById('ul-scores').innerHTML = error;
   }
 };
 
