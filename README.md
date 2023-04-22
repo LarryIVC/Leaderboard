@@ -69,8 +69,8 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-  <!-- <a href="https://larryivc.github.io/Leaderboard/">Click here</a> to view live version  -->
-  This feature is not implemented yet
+  <a href="https://development--dainty-gecko-8eed23.netlify.app/" target="blank">Click here</a> to view live version 
+  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
