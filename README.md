@@ -69,7 +69,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-  <a href="https://development--dainty-gecko-8eed23.netlify.app/" target="blank">Click here</a> to view live version 
+  <a href="https://larryivc.netlify.app/" target="blank">Click here</a> to view live version 
   <img src="moca-Leaderscore.jpg">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
